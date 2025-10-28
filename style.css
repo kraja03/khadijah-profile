@@ -33,6 +33,10 @@ nav li {
   font-weight: bold;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .profile-header {
   text-align: center;
   padding: 50px 20px 30px 20px;
